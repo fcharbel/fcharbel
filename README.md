@@ -1,6 +1,6 @@
 ### Olá, me chamo Fernanda 👋
   
-<img src="https://media1.giphy.com/media/kreQ1pqlSzftm/giphy.gif?cid=ecf05e47ya8spzodshr60ctdhtd4v66mkpywsxzbrmme2aue&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coder GIF" width="400">
+<img src="https://media1.giphy.com/media/8BESjrO1iYGVLsiWIv/giphy.webp?cid=ecf05e476t2ribheovdf4713vx51mfxsp1yvqch5jit24b3h&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="300">
 
 ---
 
