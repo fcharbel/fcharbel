@@ -25,3 +25,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcharbel&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+---
+
+### 📫 Conecte-se comigo
+
+
+<a href="https://www.linkedin.com/in/fernanda-charbel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git" width="111" height="28"/> </a>&nbsp;
+
+
+
+
