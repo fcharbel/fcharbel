@@ -34,9 +34,11 @@
 
 ### 📫 Conecte-se comigo
 
-<img src="https://media0.giphy.com/media/gfl7CKcgs6exW/giphy.gif?cid=ecf05e478iytoihyb3gfpmvtlxrpg0yfxii4gum33my8momm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+Te espero no LinkedIn para que possamos nos conectar, compartilhar conhecimentos e debater ideias.
 
-<a href="https://www.linkedin.com/in/fernanda-charbel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git" width="111" height="28"/> </a>&nbsp;
+<a href="https://www.linkedin.com/in/fernanda-charbel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git" width="111" height="28"/> </a>
+
+<img src="https://media0.giphy.com/media/gfl7CKcgs6exW/giphy.gif?cid=ecf05e478iytoihyb3gfpmvtlxrpg0yfxii4gum33my8momm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 
 
 
