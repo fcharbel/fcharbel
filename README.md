@@ -1,7 +1,5 @@
 ### Olá, me chamo Fernanda 👋
   
-<img src="https://media1.giphy.com/media/8BESjrO1iYGVLsiWIv/giphy.webp?cid=ecf05e476t2ribheovdf4713vx51mfxsp1yvqch5jit24b3h&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="300">
-
 ---
 
 ### 👩‍💻 Sobre mim
@@ -10,7 +8,6 @@
 - 💼 Valorizo trabalho em equipe, comunicação efetiva e abordagem analítica aos desafios.
 - ✨ Entusiasmada e pronta para contribuir ativamente no mercado de tecnologia.
 
-<img src="https://media1.giphy.com/media/SwImQhtiNA7io/giphy.gif?cid=ecf05e47qnwuh0s95zwmd0jyic5pa20hc8b8wif2b5svhl00&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400">
   
 ---
 
@@ -42,7 +39,6 @@ Te espero no LinkedIn para que possamos nos conectar, compartilhar conhecimentos
 <a href="https://www.linkedin.com/in/fernanda-charbel/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git" width="111" height="28"/> </a>&nbsp;
 <a href = "mailto:fernandacharbel@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" style="border-radius: 30px" target="_blank"></a>
 
-<img src="https://media0.giphy.com/media/gfl7CKcgs6exW/giphy.gif?cid=ecf05e478iytoihyb3gfpmvtlxrpg0yfxii4gum33my8momm&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 
 
 
